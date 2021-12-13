@@ -16,7 +16,7 @@
   "type": "project",
   "require": {
     "craftcms/cms": "^3.4.0",
-    "vlucas/phpdotenv": "^3.4.0",
+    "vlucas/phpdotenv": "^4.2.2",
     "nystudio107/craft-twigpack": "^1.1"
   },
   "autoload": {
